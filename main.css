@@ -1,0 +1,43 @@
+
+body{
+	background-color:#FFFF99;
+	height:1024px;
+	width:768px;
+}
+
+.Heading{
+	text-align:center;
+}
+
+
+.Education h4{
+	text-transform:uppercase;
+	font-size:24px;
+	border-bottom:solid;
+	text-align: center;
+	
+}
+
+.Education p{
+	display:inline;
+	
+	
+}
+
+
+.Education h2{
+	text-transform:uppercase;
+	font-size:16px;	
+	text-align:center;
+}
+
+
+	
+	
+
+.WorkExperience h3{
+	text-transform:uppercase;
+	font-size:24px;
+	border-bottom:solid;
+	text-align:center;
+}
